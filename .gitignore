@@ -1,0 +1,17 @@
+# Environment
+.env
+.env.local
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output (uncomment if you don't want to track generated files)
+# poetry-data.js
+# poetry-data-annotated.json
